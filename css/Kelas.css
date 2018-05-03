@@ -1,0 +1,34 @@
+.table_sd {
+    font-family: sans-serif;
+    color: #ffffff;
+    border-collapse: collapse;
+    width: 50%;
+    border: 1px solid #6d6868;
+	margin-left: auto;
+	margin-right: auto;
+	position: fixed;
+	right: 10px;
+	left: 10px;
+	bottom: 80px;
+}
+.table_sd tr th{
+    background: #000000;
+    color: #ffffff;
+    font-weight: normal;
+}
+
+.table_sd, th {
+    padding: 8px 20px;
+    text-align: center;
+	border: 1px solid #6d6868;
+}
+.table_sd, td {
+	padding : 8px 20px;
+	text-align : center;
+	
+}
+.table_sd tr:hover {
+    background-color: #6d6868; <!-- Ini Hover -->
+}
+
+}
